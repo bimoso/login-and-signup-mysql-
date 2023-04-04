@@ -27,4 +27,4 @@ DirectoryIndex index.php
 
 ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
 
-### 💡 Note: *It is important to already have the database created and to have modified the /db/db.php file according to your mysql configuration. If you make any other changes, modify the .php files in /entrar/ because the columns may be different even in table name*
+#### 💡 Note: *It is important to already have the database created and to have modified the /db/db.php file according to your mysql configuration. If you make any other changes, modify the .php files in /entrar/ because the columns may be different even in table name*
